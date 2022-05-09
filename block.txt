@@ -16,7 +16,7 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 ==================
-0.0.0.0 roundandbrown.com
-0.0.0.0 realitykings.com
+0.0.0.0:443 roundandbrown.com
+0.0.0.0:443 realitykings.com
 66.254.114.234 realitykings.com
 double
